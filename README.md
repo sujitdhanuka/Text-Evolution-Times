@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # Text-Evolution-Times
 
 ## Welcome to my new series on the Evolution of Text Processing, also known as Natural Language Processing (NLP). 🌟
@@ -18,3 +20,7 @@ From understanding simple commands to generating human-like text, NLP has transf
 - **Future Trends**: What’s next for NLP and the challenges ahead.
 
 Access my Newsletter on LinkedIn: https://www.linkedin.com/newsletters/text-evolution-times-7201405952309342209/
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sujitdhanuka" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sujitdhanuka?trk=profile-badge">Sujit Dhanuka</a></div>
+              
