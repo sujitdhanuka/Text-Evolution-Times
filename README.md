@@ -1,5 +1,7 @@
 <html>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+  
 # Text-Evolution-Times
 
 ## Welcome to my new series on the Evolution of Text Processing, also known as Natural Language Processing (NLP). 🌟
