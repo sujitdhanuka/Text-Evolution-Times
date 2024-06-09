@@ -1,4 +1,4 @@
-
+<html>
 
 # Text-Evolution-Times
 
@@ -21,6 +21,6 @@ From understanding simple commands to generating human-like text, NLP has transf
 
 Access my Newsletter on LinkedIn: https://www.linkedin.com/newsletters/text-evolution-times-7201405952309342209/
 
-
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sujitdhanuka" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sujitdhanuka?trk=profile-badge">Sujit Dhanuka</a></div>
               
+</html>
